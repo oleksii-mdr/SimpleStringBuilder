@@ -1,0 +1,9 @@
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\test\SSB.Core.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\test\SSB.Core.Test\bin\Debug\SSB.Core.Test.dll
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\test\SSB.Core.Test\bin\Debug\SSB.Core.Test.pdb
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\test\SSB.Core.Test\bin\Debug\nunit.framework.dll
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\test\SSB.Core.Test\bin\Debug\SSB.Core.dll
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\test\SSB.Core.Test\bin\Debug\SSB.Core.pdb
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\test\SSB.Core.Test\bin\Debug\nunit.framework.xml
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\test\SSB.Core.Test\obj\Debug\SSB.Core.Test.dll
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\test\SSB.Core.Test\obj\Debug\SSB.Core.Test.pdb

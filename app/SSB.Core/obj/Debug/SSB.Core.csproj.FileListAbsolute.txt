@@ -1,0 +1,5 @@
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\app\SSB.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\app\SSB.Core\bin\Debug\SSB.Core.dll
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\app\SSB.Core\bin\Debug\SSB.Core.pdb
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\app\SSB.Core\obj\Debug\SSB.Core.dll
+C:\Projects\Private\B4W\Git\SimpleStringBuilder\app\SSB.Core\obj\Debug\SSB.Core.pdb

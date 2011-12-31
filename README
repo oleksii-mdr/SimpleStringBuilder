@@ -1,0 +1,8 @@
+DESCRIPTION
+===========
+This project contains an extremely simplified version of StringBuilder class.
+
+The purpose of it is to demonstrate how does StringBuilder class internally handle concatenation of strings without creating additional copies of data in memory. The main class is SimpleStringBuilder which uses char[] as a buffer to hold char data;
+
+For more details one can see IL code of StringBuilder and convert it back into C# for "better reading".
+My implementation of StringBuilder takes 80 lines, whereas the real version in .NET 4 takes 1653 lines of code and additionally extensively uses System.String type.
