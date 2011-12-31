@@ -1,6 +1,0 @@
-<Modules>
-  <Module PersistentId="187DA3BD-C851-4EF5-9573-DACB0520A784" ModuleId="SSB.Core" />
-  <Module PersistentId="FCCD8C23-FBAF-4AFD-952F-2619B626B0FD" ModuleId="SSB.Core.Test" />
-  <Module PersistentId="ACC39E7D-E9EF-431B-B741-56BF7179B0D9" ModuleId="SSB.Core_1" />
-  <Module PersistentId="34142A4F-3B6C-405F-BB6E-EF2C99F4AA01" ModuleId="SSB.Core.Test_1" />
-</Modules>
